@@ -9,7 +9,7 @@
 
 假定你已经有socks5代理。
 
-根据这篇[科学上网指南](https://github.com/haoel/haoel.github.io) 里提到的[代理技巧](https://github.com/haoel/haoel.github.io#10-%E4%BB%A3%E7%90%86%E6%8A%80%E5%B7%A7) 。
+根据这篇[科学上网指南](https://github.com/haoel/haoel.github.io)里提到的[代理技巧](https://github.com/haoel/haoel.github.io#10-%E4%BB%A3%E7%90%86%E6%8A%80%E5%B7%A7) 。
 
 对于Windows用户，到[with-env网站](https://github.com/hellojukay/with-env) ，找到下载链接，下载最新版的`with-env_windows_amd64.exe`。
 把它改名为`with-env.exe`。保存到`C:\Bin`目录下。
